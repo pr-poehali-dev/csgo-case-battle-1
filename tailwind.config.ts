@@ -19,6 +19,13 @@ export default {
 		},
 		extend: {
 			colors: {
+				game: {
+					orange: '#FF6B35',
+					purple: '#9333EA',
+					blue: '#0D47A1',
+					dark: '#1A1A1A',
+					gray: '#2A2A2A'
+				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
